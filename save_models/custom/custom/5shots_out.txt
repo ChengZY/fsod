@@ -1,0 +1,31 @@
+Evaluating detections
+Writing Bearing results file
+Writing BuckleB results file
+Writing Fixator results file
+Writing JointB results file
+Writing PlateC results file
+Writing PlateD results file
+Writing Spring results file
+Writing WheelB results file
+Writing Brake results file
+Writing BuckleA results file
+Writing PlateA results file
+Writing PlateB results file
+Writing WheelA results file
+AP for Bearing = 0.199
+AP for BuckleB = 0.911
+AP for Fixator = 1.000
+AP for JointB = 0.674
+AP for PlateC = 0.289
+AP for PlateD = 0.276
+AP for Spring = 0.737
+AP for WheelB = 0.221
+Mean AP = 0.5384 for base
+AP for Brake = 0.254
+AP for BuckleA = 0.053
+AP for PlateA = 0.840
+AP for PlateB = 0.231
+AP for WheelA = 0.321
+Mean AP = 0.3396 for novel
+Mean AP = 0.4619
+test time: 49.8957s
